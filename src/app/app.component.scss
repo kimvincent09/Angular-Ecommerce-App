@@ -1,0 +1,15 @@
+body{
+    zoom: 80%;
+}
+.content{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+app-products{
+    border: solid 1px black;
+}
+
+  .custom-container {
+    max-width: 80%;
+    margin: auto;
+  }
